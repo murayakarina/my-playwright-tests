@@ -96,10 +96,16 @@ npx playwright test --debug
 
 ---
 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## 📄 License
 
 MIT License
 
 ---
 
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Built with ❤️ by Brian – Happy Testing!
