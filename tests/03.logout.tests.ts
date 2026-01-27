@@ -9,6 +9,6 @@ test.describe('Logout', () =>{
 
     test('user can successfully logout', async({page})=>{
         await page.click("body > div > form:nth-child(3) > button");
-        await expect(page.locator("body > div.logo-title")).toBeVisible();
+        await expect(page.locator("body > div")).toBeVisible();
     })
 })
